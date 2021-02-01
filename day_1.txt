@@ -1,0 +1,18 @@
+Waterfall model: you work on project following some specific phases. If the project requires dynamic changes, then this is not the best approach because the requirements of the project must be clearly defined and not subject to changes. Waterfall can have many subprojects.
+Business requirements = business analyst
+Design = software architects
+Develop = Developers
+Test = Testers
+Maintain = Developers
+Flaws: no changes in requirements, maintain changes in live environment is difficult, long time, technology changes very fast, testing is done very late in the process.  There is no communication between the clients and the team developing the product.
+
+Sashimi waterfall: executing a phase even if the previous one has not started as long as we understand it, we can start executing it. It’s good when only one team is on it and can really get complicated when many teams are required to work on this same project and can have ambiguous deadlines because everything happens at the same time.
+
+17 IT people came up with the Agile Manifesto in 2001.
+
+Plan for testing during requirement analysis.
+Define who will do what testing.
+Allocate resources to testing.
+Define where and when testing will take place.
+Write a test plan and test cases.
+Test as early as possible.
