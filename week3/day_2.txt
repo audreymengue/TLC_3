@@ -1,0 +1,10 @@
+DevOps: isn’t about writing codes only but to follow a set of steps in order to deliver quality software to production.
+
+Object oriented: it’s a paradigm that helps us model solutions (modeling everything through objects and objects can be anything). Objects have attribute(things that the object can do) attributes can be characteristics of an object in some cases. 
+
+Four terms of OOP:
+1.	Encapsulation: will encapsulate both the characteristics (state) and the behavior of an object (method).  Functions within objects are called methods. Information hiding will allow people to not have access to certain information based on this concept. Identity refers to having different references in memory. When designing objects, we want to keep the characteristics private and make the method to manipulate the data public. A class is a blueprint of how the object will be created. 
+2.	Inheritance we are implementing everything that was in a higher function to the other attribute. The higher we go, the more generic we get. Look at anything that can be reusable, fully reusable. 
+3.	Polymorphism 
+4.	Abstraction: abstract classes are classes that we cannot instantiate.
+Design patters are solutions to recurrent problems not specific to a technology. Anti-patterns is the wrong solutions implemented.  
