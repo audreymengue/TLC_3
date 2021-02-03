@@ -1,0 +1,13 @@
+In OOP languages, all code must belong to a class.
+Java can be compiled and run everywhere because it runs on Java Virtual Machine (JVM).
+Functions in C++ = Methods in Java because the live on a class.
+Keep method private. If we need to get people to have access to it, we must create methods for that. 
+A constructor is a method that doesn’t return anything not even void.
+If we want to see the value in constructors, we can use getter and setter to reassign values that were in the constructor. This is very important when we don’t want people to see the value of our object and this gives us more power over what people can have access to. Constructors help us to create objects.
+JVM handles garbage collection. The problem with it is that we do not have control over it. 
+We cannot call any non-static method in static method.
+The ‘this’ keyword belongs to the scope of a particular method.
+
+A package is a container that holds Java files. The package should be lower case. 
+Packages contain Java files also known as Java classes.
+The main method in Java is the entry point so when we want to execute a file in Java, it will first look at the main method. 
