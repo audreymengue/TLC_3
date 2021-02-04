@@ -1,0 +1,6 @@
+Strings are immutable in Java (the basic string class).
+All classes declare comes from a class called Object. 
+You can only have collection on objects, not primitive types.
+Protected can be private but accessible to the child class.
+When we using the word final, the class cannot be initiated. ‘final’ in Java is equal to ‘const’ in c++. Yu can use the final keyword on class, method or attribute. 
+Interfaces are abstract class with different abstract classes.
