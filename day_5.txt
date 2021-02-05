@@ -1,0 +1,3 @@
+A collection can’t hold primitive type.
+Wrapper class. Primitive class are not object. But for collection, you need objects that’s why we have the “Double” class. The wrapper class helps 
+Enum is a class (a special type) group of constants that can have properties but they cannot have method. Inside a class a variable is property and functions are methods.
